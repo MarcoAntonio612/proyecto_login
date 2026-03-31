@@ -19,9 +19,7 @@ Registrarte normalmente y luego en la base de datos cambiar el campo:
 
 ### Opción 2: Usuario de prueba
 
-Correo: marco612pesca@gmail.com
-Contraseña: Tobi0701
-role = cliente
+
 
 # 🔑 Cómo probar recuperación de contraseña
 
