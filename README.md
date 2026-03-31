@@ -13,9 +13,7 @@ Para acceder como administrador, puedes:
 
 Registrarte normalmente y luego en la base de datos cambiar el campo:
 
-Correo: 22614003
-Contraseña: Tobi0701
-Rol: admin
+
 
 *(Asegúrate de que en la base de datos el rol esté configurado como "admin")*
 
